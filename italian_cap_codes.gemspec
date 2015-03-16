@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = ItalianCapCodes::VERSION
   s.authors     = ["Andrea Schiavini"]
   s.email       = ["metalelf0@gmail.com"]
-  s.homepage    = "TODO"
+  s.homepage    = "https://github.com/metalelf0/italian_cap_codes"
   s.summary     = "An engine including models and data for italian regions, provinces and comunes"
   s.description = "An engine including models and data for italian regions, provinces and comunes"
   s.license     = "MIT"
