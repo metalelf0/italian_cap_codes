@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Andrea Schiavini"]
   s.email       = ["metalelf0@gmail.com"]
   s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ItalianCapCodes."
-  s.description = "TODO: Description of ItalianCapCodes."
+  s.summary     = "An engine including models and data for italian regions, provinces and comunes"
+  s.description = "An engine including models and data for italian regions, provinces and comunes"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
