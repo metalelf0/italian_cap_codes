@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cap: MyString
+  province_id: 1
+  fiscal_code: MyString
+  istat_code: MyString
+  name: MyString
+  phone_prefix: MyString
+
+two:
+  cap: MyString
+  province_id: 1
+  fiscal_code: MyString
+  istat_code: MyString
+  name: MyString
+  phone_prefix: MyString
