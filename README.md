@@ -27,6 +27,16 @@ ItalianCapCodes::Engine.load_seed
 $ rake db:seed
 ```
 
+## Changelog
+
+### v 0.0.2
+
+* added `Region.comunes` relation via `has_many :comunes, through: :provinces`
+
+### v 0.0.1
+
+* first commit
+
 # Disclaimer
 
 The idea for this app is taken from [dbraga/italian-cap-codes](https://github.com/dbraga/italian-cap-codes). Thank you!
