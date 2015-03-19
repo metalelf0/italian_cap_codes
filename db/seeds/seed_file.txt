@@ -25,7 +25,7 @@
 060001;Acquafondata;FR;Frosinone;LAZ;Lazio;0776;03040;A032
 078001;Acquaformosa;CS;Cosenza;CAL;Calabria;0981;87010;A033
 017001;Acquafredda;BS;Brescia;LOM;Lombardia;030;25010;A034
-041001;Acqualagna;PU;Pesaro e;MAR;Marche;0721;61041;A035
+041001;Acqualagna;PU;Pesaro e Urbino;MAR;Marche;0721;61041;A035
 019001;Acquanegra Cremonese;CR;Cremona;LOM;Lombardia;0372;26020;A039
 020001;Acquanegra sul Chiese;MN;Mantova;LOM;Lombardia;0376;46011;A038
 056001;Acquapendente;VT;Viterbo;LAZ;Lazio;0763;01021;A040
@@ -69,13 +69,13 @@
 025001;Agordo;BL;Belluno;VEN;Veneto;0437;32021;A083
 058002;Agosta;RM;Roma;LAZ;Lazio;0774;00020;A084
 012001;Agra;VA;Varese;LOM;Lombardia;0332;21010;A085
-108001;Agrate Brianza;MB;Monza e;LOM;Lombardia;039;20864;A087
+108001;Agrate Brianza;MB;Monza e Brianza;LOM;Lombardia;039;20864;A087
 003001;Agrate Conturbia;NO;Novara;PIE;Piemonte;0322;28010;A088
 084001;Agrigento;AG;Agrigento;SIC;Sicilia;0922;92100;A089
 065002;Agropoli;SA;Salerno;CAM;Campania;0974;84043;A091
 042001;Agugliano;AN;Ancona;MAR;Marche;071;60020;A092
 024001;Agugliaro;VI;Vicenza;VEN;Veneto;0444;36020;A093
-108002;Aicurzio;MB;Monza e;LOM;Lombardia;039;20886;A096
+108002;Aicurzio;MB;Monza e Brianza;LOM;Lombardia;039;20886;A096
 095002;Aidomaggiore;OR;Oristano;SAR;Sardegna;0785;09070;A097
 086002;Aidone;EN;Enna;SIC;Sicilia;0935;94010;A098
 066002;Aielli;AQ;L'Aquila;ABR;Abruzzo;0863;67041;A100
@@ -123,7 +123,7 @@
 079002;Albi;CZ;Catanzaro;CAL;Calabria;0961;88055;A155
 022002;Albiano;TN;Trento;TAA;Trentino Alto Adige;0461;38041;A158
 001004;Albiano d'Ivrea;TO;Torino;PIE;Piemonte;0125;10010;A157
-108003;Albiate;MB;Monza e;LOM;Lombardia;0362;20847;A159
+108003;Albiate;MB;Monza e Brianza;LOM;Lombardia;0362;20847;A159
 078006;Albidona;CS;Cosenza;CAL;Calabria;0981;87070;A160
 028003;Albignasego;PD;Padova;VEN;Veneto;049;35020;A161
 035001;Albinea;RE;Reggio Emilia;EMR;Emilia Romagna;0522;42020;A162
@@ -262,7 +262,7 @@
 037001;Anzola dell'Emilia;BO;Bologna;EMR;Emilia Romagna;051;40011;A324
 103002;Anzola d'Ossola;VB;Verbano-Cusio-Ossola;PIE;Piemonte;0323;28877;A325
 007003;Aosta;AO;Aosta;VDA;Valle d'Aosta;0165;11100;A326
-041002;Apecchio;PU;Pesaro e;MAR;Marche;0722;61042;A327
+041002;Apecchio;PU;Pesaro e Urbino;MAR;Marche;0722;61042;A327
 062003;Apice;BN;Benevento;CAM;Campania;0824;82021;A328
 043002;Apiro;MC;Macerata;MAR;Marche;0733;62021;A329
 062004;Apollosa;BN;Benevento;CAM;Campania;0824;82030;A330
@@ -299,7 +299,7 @@
 011002;Arcola;SP;La Spezia;LIG;Liguria;0187;19021;A373
 023004;Arcole;VR;Verona;VEN;Veneto;045;37040;A374
 015007;Arconate;MI;Milano;LOM;Lombardia;0331;20020;A375
-108004;Arcore;MB;Monza e;LOM;Lombardia;039;20862;A376
+108004;Arcore;MB;Monza e Brianza;LOM;Lombardia;039;20862;A376
 024006;Arcugnano;VI;Vicenza;VEN;Veneto;0444;36057;A377
 090005;Ardara;SS;Sassari;SAR;Sardegna;079;07010;A379
 095007;Ardauli;OR;Oristano;SAR;Sardegna;0783;09081;A380
@@ -395,7 +395,7 @@
 055006;Attigliano;TR;Terni;UMB;Umbria;0744;05012;A490
 030007;Attimis;UD;Udine;FVG;Friuli Venezia Giulia;0432;33040;A491
 091003;Atzara;NU;Nuoro;SAR;Sardegna;0784;08030;A492
-041003;Auditore;PU;Pesaro e;MAR;Marche;0722;61020;A493
+041003;Auditore;PU;Pesaro e Urbino;MAR;Marche;0722;61020;A493
 089001;Augusta;SR;Siracusa;SIC;Sicilia;0931;96011;A494
 065012;Auletta;SA;Salerno;CAM;Campania;0975;84031;A495
 045001;Aulla;MS;Massa-Carrara;TOS;Toscana;0187;54011;A496
@@ -512,7 +512,7 @@
 021007;Barbiano;BZ;Bolzano;TAA;Trentino Alto Adige;0471;39040;A635
 028010;Barbona;PD;Padova;VEN;Veneto;0425;35040;A637
 083005;Barcellona Pozzo di Gotto;ME;Messina;SIC;Sicilia;090;98051;A638
-041004;Barchi;PU;Pesaro e;MAR;Marche;0721;61040;A639
+041004;Barchi;PU;Pesaro e Urbino;MAR;Marche;0721;61040;A639
 093006;Barcis;PN;Pordenone;FVG;Friuli Venezia Giulia;0427;33080;A640
 007009;Bard;AO;Aosta;VDA;Valle d'Aosta;0125;11020;A643
 012009;Bardello;VA;Varese;LOM;Lombardia;0332;21020;A645
@@ -533,7 +533,7 @@
 037003;Baricella;BO;Bologna;EMR;Emilia Romagna;051;40052;A665
 076011;Barile;PZ;Potenza;BAS;Basilicata;0972;85022;A666
 066009;Barisciano;AQ;L'Aquila;ABR;Abruzzo;0862;67021;A667
-108005;Barlassina;MB;Monza e;LOM;Lombardia;0362;20825;A668
+108005;Barlassina;MB;Monza e Brianza;LOM;Lombardia;0362;20825;A668
 110002;Barletta;BT;Barletta-Andria-Trani;PUG;Puglia;0883;76121;A669
 013015;Barni;CO;Como;LOM;Lombardia;031;22030;A670
 004013;Barolo;CN;Cuneo;PIE;Piemonte;0173;12060;A671
@@ -587,7 +587,7 @@
 004016;Beinette;CN;Cuneo;PIE;Piemonte;0171;12081;A735
 079009;Belcastro;CZ;Catanzaro;CAL;Calabria;0961;88050;A736
 023007;Belfiore;VR;Verona;VEN;Veneto;045;37050;A737
-041005;Belforte all'Isauro;PU;Pesaro e;MAR;Marche;0722;61026;A740
+041005;Belforte all'Isauro;PU;Pesaro e Urbino;MAR;Marche;0722;61026;A740
 043004;Belforte del Chienti;MC;Macerata;MAR;Marche;0733;62020;A739
 006014;Belforte Monferrato;AL;Alessandria;PIE;Piemonte;0143;15070;A738
 018013;Belgioioso;PV;Pavia;LOM;Lombardia;0382;27011;A741
@@ -605,7 +605,7 @@
 061007;Bellona;CE;Caserta;CAM;Campania;0823;81041;A755
 065015;Bellosguardo;SA;Salerno;CAM;Campania;0828;84020;A756
 025006;Belluno;BL;Belluno;VEN;Veneto;0437;32100;A757
-108006;Bellusco;MB;Monza e;LOM;Lombardia;039;20882;A759
+108006;Bellusco;MB;Monza e Brianza;LOM;Lombardia;039;20882;A759
 078013;Belmonte Calabro;CS;Cosenza;CAL;Calabria;0982;87033;A762
 060013;Belmonte Castello;FR;Frosinone;LAZ;Lazio;0776;03040;A763
 094004;Belmonte del Sannio;IS;Isernia;MOL;Molise;0865;86080;A761
@@ -641,7 +641,7 @@
 004021;Bergolo;CN;Cuneo;PIE;Piemonte;0173;12074;A798
 017015;Berlingo;BS;Brescia;LOM;Lombardia;030;25030;A799
 077003;Bernalda;MT;Matera;BAS;Basilicata;0835;75012;A801
-108007;Bernareggio;MB;Monza e;LOM;Lombardia;039;20881;A802
+108007;Bernareggio;MB;Monza e Brianza;LOM;Lombardia;039;20881;A802
 015019;Bernate Ticino;MI;Milano;LOM;Lombardia;02;20010;A804
 004022;Bernezzo;CN;Cuneo;PIE;Piemonte;0171;12010;A805
 038002;Berra;FE;Ferrara;EMR;Emilia Romagna;0532;44033;A806
@@ -654,7 +654,7 @@
 017016;Berzo Demo;BS;Brescia;LOM;Lombardia;0364;25040;A816
 017017;Berzo Inferiore;BS;Brescia;LOM;Lombardia;0364;25040;A817
 016025;Berzo San Fermo;BG;Bergamo;LOM;Lombardia;035;24060;A815
-108008;Besana in Brianza;MB;Monza e;LOM;Lombardia;0362;20842;A818
+108008;Besana in Brianza;MB;Monza e Brianza;LOM;Lombardia;0362;20842;A818
 012011;Besano;VA;Varese;LOM;Lombardia;0332;21050;A819
 015022;Besate;MI;Milano;LOM;Lombardia;02;20080;A820
 022013;Besenello;TN;Trento;TAA;Trentino Alto Adige;0464;38060;A821
@@ -676,7 +676,7 @@
 016026;Bianzano;BG;Bergamo;LOM;Lombardia;035;24060;A846
 002011;Bianzè;VC;Vercelli;PIE;Piemonte;0161;13041;A847
 014008;Bianzone;SO;Sondrio;LOM;Lombardia;0342;23030;A848
-108009;Biassono;MB;Monza e;LOM;Lombardia;039;20853;A849
+108009;Biassono;MB;Monza e Brianza;LOM;Lombardia;039;20853;A849
 035004;Bibbiano;RE;Reggio Emilia;EMR;Emilia Romagna;0522;42021;A850
 051004;Bibbiena;AR;Arezzo;TOS;Toscana;0575;52011;A851
 049001;Bibbona;LI;Livorno;TOS;Toscana;0586;57020;A852
@@ -790,7 +790,7 @@
 046004;Borgo a Mozzano;LU;Lucca;TOS;Toscana;0583;55023;B007
 002015;Borgo d'Ale;VC;Vercelli;PIE;Piemonte;0161;13040;B009
 016032;Borgo di Terzo;BG;Bergamo;LOM;Lombardia;035;24060;B010
-041006;Borgo Pace;PU;Pesaro e;MAR;Marche;0722;61040;B026
+041006;Borgo Pace;PU;Pesaro e Urbino;MAR;Marche;0722;61040;B026
 018016;Borgo Priolo;PV;Pavia;LOM;Lombardia;0383;27040;B028
 004025;Borgo San Dalmazzo;CN;Cuneo;PIE;Piemonte;0171;12011;B033
 017020;Borgo San Giacomo;BS;Brescia;LOM;Lombardia;030;25022;B035
@@ -861,7 +861,7 @@
 017025;Bovezzo;BS;Brescia;LOM;Lombardia;030;25073;B102
 060014;Boville Ernica;FR;Frosinone;LAZ;Lazio;0775;03022;A720
 071007;Bovino;FG;Foggia;PUG;Puglia;0881;71023;B104
-108010;Bovisio-Masciago;MB;Monza e;LOM;Lombardia;0362;20813;B105
+108010;Bovisio-Masciago;MB;Monza e Brianza;LOM;Lombardia;0362;20813;B105
 028014;Bovolenta;PD;Padova;VEN;Veneto;049;35024;B106
 023012;Bovolone;VR;Verona;VEN;Veneto;045;37051;B107
 006023;Bozzole;AL;Alessandria;PIE;Piemonte;0142;15040;B109
@@ -919,7 +919,7 @@
 012021;Brinzio;VA;Varese;LOM;Lombardia;0332;21030;B182
 003027;Briona;NO;Novara;PIE;Piemonte;0321;28072;B183
 022028;Brione;TN;Trento;TAA;Trentino Alto Adige;0465;38083;B185
-108011;Briosco;MB;Monza e;LOM;Lombardia;0362;20836;B187
+108011;Briosco;MB;Monza e Brianza;LOM;Lombardia;0362;20836;B187
 039004;Brisighella;RA;Ravenna;EMR;Emilia Romagna;0546;48013;B188
 012022;Brissago-Valtravaglia;VA;Varese;LOM;Lombardia;0332;21030;B191
 007011;Brissogne;AO;Aosta;VDA;Valle d'Aosta;0165;11020;B192
@@ -937,7 +937,7 @@
 001036;Brosso;TO;Torino;PIE;Piemonte;0125;10080;B205
 103013;Brovello-Carpugnino;VB;Verbano-Cusio-Ossola;PIE;Piemonte;0323;28833;B207
 001037;Brozolo;TO;Torino;PIE;Piemonte;011;10020;B209
-108012;Brugherio;MB;Monza e;LOM;Lombardia;039;20861;B212
+108012;Brugherio;MB;Monza e Brianza;LOM;Lombardia;039;20861;B212
 028015;Brugine;PD;Padova;VEN;Veneto;049;35020;B213
 011007;Brugnato;SP;La Spezia;LIG;Liguria;0187;19020;B214
 093007;Brugnera;PN;Pordenone;FVG;Friuli Venezia Giulia;0434;33070;B215
@@ -981,7 +981,7 @@
 062011;Buonalbergo;BN;Benevento;CAM;Campania;0824;82020;B267
 052003;Buonconvento;SI;Siena;TOS;Toscana;0577;53022;B269
 078020;Buonvicino;CS;Cosenza;CAL;Calabria;0985;87020;B270
-108013;Burago di Molgora;MB;Monza e;LOM;Lombardia;039;20875;B272
+108013;Burago di Molgora;MB;Monza e Brianza;LOM;Lombardia;039;20875;B272
 092008;Burcei;CA;Cagliari;SAR;Sardegna;070;09040;B274
 084005;Burgio;AG;Agrigento;SIC;Sicilia;0925;92010;B275
 090020;Burgos;SS;Sassari;SAR;Sardegna;079;07010;B276
@@ -996,7 +996,7 @@
 015038;Buscate;MI;Milano;LOM;Lombardia;0331;20010;B286
 089004;Buscemi;SR;Siracusa;SIC;Sicilia;0931;96010;B287
 081002;Buseto Palizzolo;TP;Trapani;SIC;Sicilia;0923;91012;B288
-108051;Busnago;MB;Monza e;LOM;Lombardia;039;20874;B289
+108051;Busnago;MB;Monza e Brianza;LOM;Lombardia;039;20874;B289
 015040;Bussero;MI;Milano;LOM;Lombardia;02;20060;B292
 034007;Busseto;PR;Parma;EMR;Emilia Romagna;0524;43011;B293
 068005;Bussi sul Tirino;PE;Pescara;ABR;Abruzzo;085;65022;B294
@@ -1027,7 +1027,7 @@
 026006;Caerano di San Marco;TV;Treviso;VEN;Veneto;0423;31031;B349
 001046;Cafasse;TO;Torino;PIE;Piemonte;0123;10070;B350
 065019;Caggiano;SA;Salerno;CAM;Campania;0975;84030;B351
-041007;Cagli;PU;Pesaro e;MAR;Marche;0721;61043;B352
+041007;Cagli;PU;Pesaro e Urbino;MAR;Marche;0721;61043;B352
 013037;Caglio;CO;Como;LOM;Lombardia;031;22030;B355
 066013;Cagnano Amiterno;AQ;L'Aquila;ABR;Abruzzo;0862;67012;B358
 071008;Cagnano Varano;FG;Foggia;PUG;Puglia;0884;71010;B357
@@ -1142,7 +1142,7 @@
 019011;Campagnola Cremasca;CR;Cremona;LOM;Lombardia;0373;26010;B498
 035009;Campagnola Emilia;RE;Reggio Emilia;EMR;Emilia Romagna;0522;42012;B499
 078023;Campana;CS;Cosenza;CAL;Calabria;0983;87061;B500
-108014;Camparada;MB;Monza e;LOM;Lombardia;039;20857;B501
+108014;Camparada;MB;Monza e Brianza;LOM;Lombardia;039;20857;B501
 035010;Campegine;RE;Reggio Emilia;EMR;Emilia Romagna;0522;42040;B502
 054005;Campello sul Clitunno;PG;Perugia;UMB;Umbria;0743;06042;B504
 002025;Campertogno;VC;Vercelli;PIE;Piemonte;0163;13023;B505
@@ -1253,7 +1253,7 @@
 005018;Cantarana;AT;Asti;PIE;Piemonte;0141;14010;B633
 012030;Cantello;VA;Varese;LOM;Lombardia;0332;21050;B634
 058017;Canterano;RM;Roma;LAZ;Lazio;0774;00020;B635
-041008;Cantiano;PU;Pesaro e;MAR;Marche;0721;61044;B636
+041008;Cantiano;PU;Pesaro e Urbino;MAR;Marche;0721;61044;B636
 001054;Cantoira;TO;Torino;PIE;Piemonte;0123;10070;B637
 013041;Cantù;CO;Como;LOM;Lombardia;031;22063;B639
 067009;Canzano;TE;Teramo;ABR;Abruzzo;0861;64020;B640
@@ -1280,7 +1280,7 @@
 061013;Capodrise;CE;Caserta;CAM;Campania;0823;81020;B667
 049004;Capoliveri;LI;Livorno;TOS;Toscana;0565;57031;B669
 051006;Capolona;AR;Arezzo;TOS;Toscana;0575;52010;B670
-108052;Caponago;MB;Monza e;LOM;Lombardia;02;20867;B671
+108052;Caponago;MB;Monza e Brianza;LOM;Lombardia;02;20867;B671
 066022;Caporciano;AQ;L'Aquila;ABR;Abruzzo;0862;67020;B672
 064017;Caposele;AV;Avellino;CAM;Campania;0827;83040;B674
 092011;Capoterra;CA;Cagliari;SAR;Sardegna;070;09012;B675
@@ -1328,7 +1328,7 @@
 066024;Carapelle Calvisio;AQ;L'Aquila;ABR;Abruzzo;0862;67020;B725
 010010;Carasco;GE;Genova;LIG;Liguria;0185;16042;B726
 044010;Carassai;AP;Ascoli Piceno;MAR;Marche;0734;63063;B727
-108015;Carate Brianza;MB;Monza e;LOM;Lombardia;0362;20841;B729
+108015;Carate Brianza;MB;Monza e Brianza;LOM;Lombardia;0362;20841;B729
 013044;Carate Urio;CO;Como;LOM;Lombardia;031;22010;B730
 016053;Caravaggio;BG;Bergamo;LOM;Lombardia;0363;24043;B731
 012031;Caravate;VA;Varese;LOM;Lombardia;0332;21032;B732
@@ -1382,7 +1382,7 @@
 100002;Carmignano;PO;Prato;TOS;Toscana;055;59015;B794
 028023;Carmignano di Brenta;PD;Padova;VEN;Veneto;049;35010;B795
 012033;Carnago;VA;Varese;LOM;Lombardia;0331;21040;B796
-108016;Carnate;MB;Monza e;LOM;Lombardia;039;20866;B798
+108016;Carnate;MB;Monza e Brianza;LOM;Lombardia;039;20866;B798
 016055;Carobbio degli Angeli;BG;Bergamo;LOM;Lombardia;035;24060;B801
 078026;Carolei;CS;Cosenza;CAL;Calabria;0984;87030;B802
 016056;Carona;BG;Bergamo;LOM;Lombardia;0345;24010;B803
@@ -1395,7 +1395,7 @@
 033011;Carpaneto Piacentino;PC;Piacenza;EMR;Emilia Romagna;0523;29013;B812
 078027;Carpanzano;CS;Cosenza;CAL;Calabria;0984;87050;B813
 008013;Carpasio;IM;Imperia;LIG;Liguria;0184;18010;B814
-041009;Carpegna;PU;Pesaro e;MAR;Marche;0722;61021;B816
+041009;Carpegna;PU;Pesaro e Urbino;MAR;Marche;0722;61021;B816
 017039;Carpenedolo;BS;Brescia;LOM;Lombardia;030;25013;B817
 006033;Carpeneto;AL;Alessandria;PIE;Piemonte;0143;15071;B818
 036005;Carpi;MO;Modena;EMR;Emilia Romagna;059;41012;B819
@@ -1418,7 +1418,7 @@
 066025;Carsoli;AQ;L'Aquila;ABR;Abruzzo;0863;67061;B842
 024025;Cartigliano;VI;Vicenza;VEN;Veneto;0424;36050;B844
 004044;Cartignano;CN;Cuneo;PIE;Piemonte;0171;12020;B845
-041010;Cartoceto;PU;Pesaro e;MAR;Marche;0721;61030;B846
+041010;Cartoceto;PU;Pesaro e Urbino;MAR;Marche;0721;61030;B846
 006036;Cartosio;AL;Alessandria;PIE;Piemonte;0144;15015;B847
 028026;Cartura;PD;Padova;VEN;Veneto;049;35025;B848
 015051;Carugate;MI;Milano;LOM;Lombardia;02;20061;B850
@@ -1852,7 +1852,7 @@
 022052;Cavedago;TN;Trento;TAA;Trentino Alto Adige;0461;38010;C392
 022053;Cavedine;TN;Trento;TAA;Trentino Alto Adige;0461;38073;C393
 098017;Cavenago d'Adda;LO;Lodi;LOM;Lombardia;0371;26824;C394
-108017;Cavenago di Brianza;MB;Monza e;LOM;Lombardia;02;20873;C395
+108017;Cavenago di Brianza;MB;Monza e Brianza;LOM;Lombardia;02;20873;C395
 016066;Cavernago;BG;Bergamo;LOM;Lombardia;035;24050;C396
 036009;Cavezzo;MO;Modena;EMR;Emilia Romagna;0535;41032;C398
 022054;Cavizzana;TN;Trento;TAA;Trentino Alto Adige;0463;38022;C400
@@ -1940,7 +1940,7 @@
 018045;Cergnago;PV;Pavia;LOM;Lombardia;0384;27020;C509
 009024;Ceriale;SV;Savona;LIG;Liguria;0182;17023;C510
 008016;Ceriana;IM;Imperia;LIG;Liguria;0184;18034;C511
-108018;Ceriano Laghetto;MB;Monza e;LOM;Lombardia;02;20816;C512
+108018;Ceriano Laghetto;MB;Monza e Brianza;LOM;Lombardia;02;20816;C512
 033015;Cerignale;PC;Piacenza;EMR;Emilia Romagna;0523;29020;C513
 071020;Cerignola;FG;Foggia;PUG;Puglia;0885;71042;C514
 078037;Cerisano;CS;Cosenza;CAL;Calabria;0984;87044;C515
@@ -1991,7 +1991,7 @@
 097021;Cesana Brianza;LC;Lecco;LOM;Lombardia;031;23861;C563
 001074;Cesana Torinese;TO;Torino;PIE;Piemonte;0122;10054;C564
 015074;Cesano Boscone;MI;Milano;LOM;Lombardia;02;20090;C565
-108019;Cesano Maderno;MB;Monza e;LOM;Lombardia;0362;20811;C566
+108019;Cesano Maderno;MB;Monza e Brianza;LOM;Lombardia;0362;20811;C566
 103022;Cesara;VB;Verbano-Cusio-Ossola;PIE;Piemonte;0323;28891;C567
 083017;Cesarò;ME;Messina;SIC;Sicilia;095;98033;C568
 015076;Cesate;MI;Milano;LOM;Lombardia;02;20020;C569
@@ -2187,13 +2187,13 @@
 030027;Codroipo;UD;Udine;FVG;Friuli Venezia Giulia;0432;33033;C817
 090026;Codrongianos;SS;Sassari;SAR;Sardegna;079;07040;C818
 096019;Coggiola;BI;Biella;PIE;Piemonte;015;13863;C819
-108020;Cogliate;MB;Monza e;LOM;Lombardia;02;20815;C820
+108020;Cogliate;MB;Monza e Brianza;LOM;Lombardia;02;20815;C820
 007021;Cogne;AO;Aosta;VDA;Valle d'Aosta;0165;11012;C821
 010017;Cogoleto;GE;Genova;LIG;Liguria;010;16016;C823
 024032;Cogollo del Cengio;VI;Vicenza;VEN;Veneto;0445;36010;C824
 010018;Cogorno;GE;Genova;LIG;Liguria;0185;16030;C826
 003051;Colazza;NO;Novara;PIE;Piemonte;0322;28010;C829
-041012;Colbordolo;PU;Pesaro e;MAR;Marche;0721;61022;C830
+041012;Colbordolo;PU;Pesaro e Urbino;MAR;Marche;0721;61022;C830
 016078;Colere;BG;Bergamo;LOM;Lombardia;0346;24020;C835
 060027;Colfelice;FR;Frosinone;LAZ;Lazio;0776;03030;C836
 033016;Coli;PC;Piacenza;EMR;Emilia Romagna;0523;29020;C838
@@ -2281,7 +2281,7 @@
 024033;Conco;VI;Vicenza;VEN;Veneto;0424;36062;C949
 027011;Concordia Sagittaria;VE;Venezia;VEN;Veneto;0421;30023;C950
 036010;Concordia sulla Secchia;MO;Modena;EMR;Emilia Romagna;0535;41033;C951
-108021;Concorezzo;MB;Monza e;LOM;Lombardia;039;20863;C952
+108021;Concorezzo;MB;Monza e Brianza;LOM;Lombardia;039;20863;C952
 022066;Condino;TN;Trento;TAA;Trentino Alto Adige;0465;38083;C953
 080029;Condofuri;RC;Reggio Calabria;CAL;Calabria;0965;89030;C954
 001093;Condove;TO;Torino;PIE;Piemonte;011;10055;C955
@@ -2335,7 +2335,7 @@
 016249;Cornalba;BG;Bergamo;LOM;Lombardia;0345;24017;D016
 018055;Cornale;PV;Pavia;LOM;Lombardia;0383;27050;D017
 015087;Cornaredo;MI;Milano;LOM;Lombardia;02;20010;D018
-108053;Cornate d'Adda;MB;Monza e;LOM;Lombardia;039;20872;D019
+108053;Cornate d'Adda;MB;Monza e Brianza;LOM;Lombardia;039;20872;D019
 021023;Cornedo all'Isarco;BZ;Bolzano;TAA;Trentino Alto Adige;0471;39053;B799
 024034;Cornedo Vicentino;VI;Vicenza;VEN;Veneto;0445;36073;D020
 098021;Cornegliano Laudense;LO;Lodi;LOM;Lombardia;0371;26854;D021
@@ -2346,7 +2346,7 @@
 098023;Cornovecchio;LO;Lodi;LOM;Lombardia;0377;26842;D029
 026023;Cornuda;TV;Treviso;VEN;Veneto;0423;31041;D030
 035020;Correggio;RE;Reggio Emilia;EMR;Emilia Romagna;0522;42015;D037
-108022;Correzzana;MB;Monza e;LOM;Lombardia;039;20856;D038
+108022;Correzzana;MB;Monza e Brianza;LOM;Lombardia;039;20856;D038
 028035;Correzzola;PD;Padova;VEN;Veneto;049;35020;D040
 013077;Corrido;CO;Como;LOM;Lombardia;0344;22010;D041
 043015;Corridonia;MC;Macerata;MAR;Marche;0733;62014;D042
@@ -2533,7 +2533,7 @@
 097030;Dervio;LC;Lecco;LOM;Lombardia;0341;23824;D280
 002054;Desana;VC;Vercelli;PIE;Piemonte;0161;13034;D281
 017067;Desenzano del Garda;BS;Brescia;LOM;Lombardia;030;25015;D284
-108023;Desio;MB;Monza e;LOM;Lombardia;0362;20832;D286
+108023;Desio;MB;Monza e Brianza;LOM;Lombardia;0362;20832;D286
 091016;Desulo;NU;Nuoro;SAR;Sardegna;0784;08032;D287
 078048;Diamante;CS;Cosenza;CAL;Calabria;0985;87023;D289
 008025;Diano Arentino;IM;Imperia;LIG;Liguria;0183;18013;D293
@@ -2685,7 +2685,7 @@
 021030;Falzes;BZ;Bolzano;TAA;Trentino Alto Adige;0474;39030;D484
 036011;Fanano;MO;Modena;EMR;Emilia Romagna;0536;41021;D486
 093020;Fanna;PN;Pordenone;FVG;Friuli Venezia Giulia;0427;33092;D487
-041013;Fano;PU;Pesaro e;MAR;Marche;0721;61032;D488
+041013;Fano;PU;Pesaro e Urbino;MAR;Marche;0721;61032;D488
 067024;Fano Adriano;TE;Teramo;ABR;Abruzzo;0861;64044;D489
 069030;Fara Filiorum Petri;CH;Chieti;ABR;Abruzzo;0871;66010;D494
 016096;Fara Gera d'Adda;BG;Bergamo;LOM;Lombardia;0363;24045;D490
@@ -2724,7 +2724,7 @@
 055012;Ferentillo;TR;Terni;UMB;Umbria;0744;05034;D538
 060033;Ferentino;FR;Frosinone;LAZ;Lazio;0775;03013;D539
 089008;Ferla;SR;Siracusa;SIC;Sicilia;0931;96010;D540
-041014;Fermignano;PU;Pesaro e;MAR;Marche;0722;61033;D541
+041014;Fermignano;PU;Pesaro e Urbino;MAR;Marche;0722;61033;D541
 109006;Fermo;FM;Fermo;MAR;Marche;0734;63900;D542
 012068;Ferno;VA;Varese;LOM;Lombardia;0331;21010;D543
 079048;Feroleto Antico;CZ;Catanzaro;CAL;Calabria;0968;88040;D544
@@ -2885,7 +2885,7 @@
 054019;Fossato di Vico;PG;Perugia;UMB;Umbria;075;06022;D745
 079052;Fossato Serralta;CZ;Catanzaro;CAL;Calabria;0961;88050;D744
 027017;Fossò;VE;Venezia;VEN;Veneto;041;30030;D748
-041015;Fossombrone;PU;Pesaro e;MAR;Marche;0721;61034;D749
+041015;Fossombrone;PU;Pesaro e Urbino;MAR;Marche;0721;61034;D749
 024041;Foza;VI;Vicenza;VEN;Veneto;0424;36010;D750
 004090;Frabosa Soprana;CN;Cuneo;PIE;Piemonte;0174;12082;D751
 004091;Frabosa Sottana;CN;Cuneo;PIE;Piemonte;0174;12083;D752
@@ -2923,7 +2923,7 @@
 054020;Fratta Todina;PG;Perugia;UMB;Umbria;075;06054;D787
 063032;Frattamaggiore;NA;Napoli;CAM;Campania;081;80027;D789
 063033;Frattaminore;NA;Napoli;CAM;Campania;081;80020;D790
-041016;Fratte Rosa;PU;Pesaro e;MAR;Marche;0721;61040;D791
+041016;Fratte Rosa;PU;Pesaro e Urbino;MAR;Marche;0721;61040;D791
 083026;Frazzanò;ME;Messina;SIC;Sicilia;0941;98070;D793
 026030;Fregona;TV;Treviso;VEN;Veneto;0438;31010;D794
 069036;Fresagrandinaria;CH;Chieti;ABR;Abruzzo;0873;66050;D796
@@ -2934,8 +2934,8 @@
 069037;Frisa;CH;Chieti;ABR;Abruzzo;0872;66030;D803
 093024;Frisanco;PN;Pordenone;FVG;Friuli Venezia Giulia;0427;33080;D804
 001109;Front;TO;Torino;PIE;Piemonte;011;10070;D805
-041017;Frontino;PU;Pesaro e;MAR;Marche;0722;61021;D807
-041018;Frontone;PU;Pesaro e;MAR;Marche;0721;61040;D808
+041017;Frontino;PU;Pesaro e Urbino;MAR;Marche;0722;61021;D807
+041018;Frontone;PU;Pesaro e Urbino;MAR;Marche;0721;61040;D808
 060038;Frosinone;FR;Frosinone;LAZ;Lazio;0775;03100;D810
 094022;Frosolone;IS;Isernia;MOL;Molise;0874;86095;D811
 001110;Frossasco;TO;Torino;PIE;Piemonte;0121;10060;D812
@@ -2957,7 +2957,7 @@
 065054;Futani;SA;Salerno;CAM;Campania;0974;84050;D832
 019045;Gabbioneta-Binanuova;CR;Cremona;LOM;Lombardia;0372;26030;D834
 006077;Gabiano;AL;Alessandria;PIE;Piemonte;0142;15020;D835
-041019;Gabicce Mare;PU;Pesaro e;MAR;Marche;0541;61011;D836
+041019;Gabicce Mare;PU;Pesaro e Urbino;MAR;Marche;0541;61011;D836
 007029;Gaby;AO;Aosta;VDA;Valle d'Aosta;0125;11020;D839
 019046;Gadesco-Pieve Delmona;CR;Cremona;LOM;Lombardia;0372;26030;D841
 091025;Gadoni;NU;Nuoro;SAR;Sardegna;0784;08030;D842
@@ -3145,7 +3145,7 @@
 065058;Giungano;SA;Salerno;CAM;Campania;0828;84050;E060
 075033;Giurdignano;LE;Lecce;PUG;Puglia;0836;73020;E061
 018072;Giussago;PV;Pavia;LOM;Lombardia;0382;27010;E062
-108024;Giussano;MB;Monza e;LOM;Lombardia;0362;20833;E063
+108024;Giussano;MB;Monza e Brianza;LOM;Lombardia;0362;20833;E063
 009031;Giustenice;SV;Savona;LIG;Liguria;019;17027;E064
 022093;Giustino;TN;Trento;TAA;Trentino Alto Adige;0465;38086;E065
 009032;Giusvalla;SV;Savona;LIG;Liguria;019;17010;E066
@@ -3190,7 +3190,7 @@
 017080;Gottolengo;BS;Brescia;LOM;Lombardia;030;25023;E116
 004099;Govone;CN;Cuneo;PIE;Piemonte;0173;12040;E118
 003076;Gozzano;NO;Novara;PIE;Piemonte;0322;28024;E120
-041020;Gradara;PU;Pesaro e;MAR;Marche;0541;61012;E122
+041020;Gradara;PU;Pesaro e Urbino;MAR;Marche;0541;61012;E122
 031008;Gradisca d'Isonzo;GO;Gorizia;FVG;Friuli Venezia Giulia;0481;34072;E124
 031009;Grado;GO;Gorizia;FVG;Friuli Venezia Giulia;0431;34073;E125
 056028;Gradoli;VT;Viterbo;LAZ;Lazio;0761;01010;E126
@@ -3359,7 +3359,7 @@
 053012;Isola del Giglio;GR;Grosseto;TOS;Toscana;0564;58012;E348
 067026;Isola del Gran Sasso d'Italia;TE;Teramo;ABR;Abruzzo;0861;64045;E343
 060043;Isola del Liri;FR;Frosinone;LAZ;Lazio;0776;03036;E340
-041021;Isola del Piano;PU;Pesaro e;MAR;Marche;0721;61030;E351
+041021;Isola del Piano;PU;Pesaro e Urbino;MAR;Marche;0721;61030;E351
 023040;Isola della Scala;VR;Verona;VEN;Veneto;045;37063;E349
 082043;Isola delle Femmine;PA;Palermo;SIC;Sicilia;091;90040;E350
 101013;Isola di Capo Rizzuto;KR;Crotone;CAL;Calabria;0962;88841;E339
@@ -3497,7 +3497,7 @@
 065063;Laviano;SA;Salerno;CAM;Campania;0828;84020;E498
 022103;Lavis;TN;Trento;TAA;Trentino Alto Adige;0461;38015;E500
 023043;Lazise;VR;Verona;VEN;Veneto;045;37017;E502
-108025;Lazzate;MB;Monza e;LOM;Lombardia;02;20824;E504
+108025;Lazzate;MB;Monza e Brianza;LOM;Lombardia;02;20824;E504
 075035;Lecce;LE;Lecce;PUG;Puglia;0832;73100;E506
 066050;Lecce nei Marsi;AQ;L'Aquila;ABR;Abruzzo;0863;67050;E505
 097042;Lecco;LC;Lecco;LOM;Lombardia;0341;23900;E507
@@ -3518,7 +3518,7 @@
 017088;Leno;BS;Brescia;LOM;Lombardia;030;25024;E526
 059012;Lenola;LT;Latina;LAZ;Lazio;0771;04025;E527
 002068;Lenta;VC;Vercelli;PIE;Piemonte;0163;13035;E528
-108054;Lentate sul Seveso;MB;Monza e;LOM;Lombardia;0362;20823;E530
+108054;Lentate sul Seveso;MB;Monza e Brianza;LOM;Lombardia;0362;20823;E530
 069047;Lentella;CH;Chieti;ABR;Abruzzo;0873;66050;E531
 025028;Lentiai;BL;Belluno;VEN;Veneto;0437;32020;C562
 089011;Lentini;SR;Siracusa;SIC;Sicilia;095;96016;E532
@@ -3535,7 +3535,7 @@
 004108;Lesegno;CN;Cuneo;PIE;Piemonte;0174;12076;E546
 034019;Lesignano de' Bagni;PR;Parma;EMR;Emilia Romagna;0521;43037;E547
 071027;Lesina;FG;Foggia;PUG;Puglia;0882;71010;E549
-108026;Lesmo;MB;Monza e;LOM;Lombardia;039;20855;E550
+108026;Lesmo;MB;Monza e Brianza;LOM;Lombardia;039;20855;E550
 001132;Lessolo;TO;Torino;PIE;Piemonte;0125;10010;E551
 096029;Lessona;BI;Biella;PIE;Piemonte;015;13853;E552
 030048;Lestizza;UD;Udine;FVG;Friuli Venezia Giulia;0432;33050;E553
@@ -3566,7 +3566,7 @@
 025029;Limana;BL;Belluno;VEN;Veneto;0437;32020;E588
 062038;Limatola;BN;Benevento;CAM;Campania;0823;82030;E589
 102019;Limbadi;VV;Vibo Valentia;CAL;Calabria;0963;89844;E590
-108027;Limbiate;MB;Monza e;LOM;Lombardia;02;20812;E591
+108027;Limbiate;MB;Monza e Brianza;LOM;Lombardia;02;20812;E591
 028045;Limena;PD;Padova;VEN;Veneto;049;35010;E592
 013128;Limido Comasco;CO;Como;LOM;Lombardia;031;22070;E593
 083040;Limina;ME;Messina;SIC;Sicilia;0942;98030;E594
@@ -3584,7 +3584,7 @@
 054025;Lisciano Niccone;PG;Perugia;UMB;Umbria;075;06060;E613
 022105;Lisignago;TN;Trento;TAA;Trentino Alto Adige;0461;38030;E614
 004111;Lisio;CN;Cuneo;PIE;Piemonte;0174;12070;E615
-108028;Lissone;MB;Monza e;LOM;Lombardia;039;20851;E617
+108028;Lissone;MB;Monza e Brianza;LOM;Lombardia;039;20851;E617
 063040;Liveri;NA;Napoli;CAM;Campania;081;80030;E620
 014037;Livigno;SO;Sondrio;LOM;Lombardia;0342;23030;E621
 025030;Livinallongo del Col di Lana;BL;Belluno;VEN;Veneto;0436;32020;E622
@@ -3675,7 +3675,7 @@
 010031;Lumarzo;GE;Genova;LIG;Liguria;0185;16024;E737
 017096;Lumezzane;BS;Brescia;LOM;Lombardia;030;25065;E738
 106010;Lunamatrona;VS;Medio Campidano;SAR;Sardegna;070;09022;E742
-041022;Lunano;PU;Pesaro e;MAR;Marche;0722;61026;E743
+041022;Lunano;PU;Pesaro e Urbino;MAR;Marche;0722;61026;E743
 018084;Lungavilla;PV;Pavia;LOM;Lombardia;0383;27053;B387
 078069;Lungro;CS;Cosenza;CAL;Calabria;0981;87010;E745
 064045;Luogosano;AV;Avellino;CAM;Campania;0827;83040;E746
@@ -3708,8 +3708,8 @@
 001142;Macello;TO;Torino;PIE;Piemonte;0121;10060;E782
 043023;Macerata;MC;Macerata;MAR;Marche;0733;62100;E783
 061047;Macerata Campania;CE;Caserta;CAM;Campania;0823;81047;E784
-041023;Macerata Feltria;PU;Pesaro e;MAR;Marche;0722;61023;E785
-108029;Macherio;MB;Monza e;LOM;Lombardia;039;20846;E786
+041023;Macerata Feltria;PU;Pesaro e Urbino;MAR;Marche;0722;61023;E785
+108029;Macherio;MB;Monza e Brianza;LOM;Lombardia;039;20846;E786
 017097;Maclodio;BS;Brescia;LOM;Lombardia;030;25030;E787
 091044;Macomer;NU;Nuoro;SAR;Sardegna;0785;08015;E788
 004112;Macra;CN;Cuneo;PIE;Piemonte;0171;12020;E789
@@ -3945,7 +3945,7 @@
 014040;Mazzo di Valtellina;SO;Sondrio;LOM;Lombardia;0342;23030;F070
 001149;Meana di Susa;TO;Torino;PIE;Piemonte;0122;10050;F074
 091047;Meana Sardo;NU;Nuoro;SAR;Sardegna;0784;08030;F073
-108030;Meda;MB;Monza e;LOM;Lombardia;0362;20821;F078
+108030;Meda;MB;Monza e Brianza;LOM;Lombardia;0362;20821;F078
 018088;Mede;PV;Pavia;LOM;Lombardia;0384;27035;F080
 031011;Medea;GO;Gorizia;FVG;Friuli Venezia Giulia;0481;34076;F081
 034020;Medesano;PR;Parma;EMR;Emilia Romagna;0525;43014;F082
@@ -3994,8 +3994,8 @@
 021051;Merano;BZ;Bolzano;TAA;Trentino Alto Adige;0473;39012;F132
 097048;Merate;LC;Lecco;LOM;Lombardia;039;23807;F133
 012101;Mercallo;VA;Varese;LOM;Lombardia;0331;21020;F134
-041025;Mercatello sul Metauro;PU;Pesaro e;MAR;Marche;0722;61040;F135
-041026;Mercatino Conca;PU;Pesaro e;MAR;Marche;0541;61013;F136
+041025;Mercatello sul Metauro;PU;Pesaro e Urbino;MAR;Marche;0722;61040;F135
+041026;Mercatino Conca;PU;Pesaro e Urbino;MAR;Marche;0541;61013;F136
 065067;Mercato San Severino;SA;Salerno;CAM;Campania;089;84085;F138
 040020;Mercato Saraceno;FC;Forlì-Cesena;EMR;Emilia Romagna;0547;47025;F139
 001150;Mercenasco;TO;Torino;PIE;Piemonte;0125;10010;F140
@@ -4016,7 +4016,7 @@
 028054;Mestrino;PD;Padova;VEN;Veneto;049;35035;F161
 063046;Meta;NA;Napoli;CAM;Campania;081;80062;F162
 001151;Meugliano;TO;Torino;PIE;Piemonte;0125;10080;F164
-108031;Mezzago;MB;Monza e;LOM;Lombardia;039;20883;F165
+108031;Mezzago;MB;Monza e Brianza;LOM;Lombardia;039;20883;F165
 022114;Mezzana;TN;Trento;TAA;Trentino Alto Adige;0463;38020;F168
 018090;Mezzana Bigli;PV;Pavia;LOM;Lombardia;0384;27030;F170
 096033;Mezzana Mortigliengo;BI;Biella;PIE;Piemonte;015;13831;F167
@@ -4078,7 +4078,7 @@
 099005;Misano Adriatico;RN;Rimini;EMR;Emilia Romagna;0541;47843;F244
 016135;Misano di Gera d'Adda;BG;Bergamo;LOM;Lombardia;0363;24040;F243
 082048;Misilmeri;PA;Palermo;SIC;Sicilia;091;90036;F246
-108032;Misinto;MB;Monza e;LOM;Lombardia;02;20826;F247
+108032;Misinto;MB;Monza e Brianza;LOM;Lombardia;02;20826;F247
 097049;Missaglia;LC;Lecco;LOM;Lombardia;039;23873;F248
 076049;Missanello;PZ;Potenza;BAS;Basilicata;0971;85010;F249
 087029;Misterbianco;CT;Catania;SIC;Sicilia;095;95045;F250
@@ -4122,7 +4122,7 @@
 022120;Molveno;TN;Trento;TAA;Trentino Alto Adige;0461;38018;F307
 005064;Mombaldone;AT;Asti;PIE;Piemonte;0144;14050;F308
 004124;Mombarcaro;CN;Cuneo;PIE;Piemonte;0174;12070;F309
-041027;Mombaroccio;PU;Pesaro e;MAR;Marche;0721;61024;F310
+041027;Mombaroccio;PU;Pesaro e Urbino;MAR;Marche;0721;61024;F310
 005065;Mombaruzzo;AT;Asti;PIE;Piemonte;0141;14046;F311
 004125;Mombasiglio;CN;Cuneo;PIE;Piemonte;0174;12070;F312
 001153;Mombello di Torino;TO;Torino;PIE;Piemonte;011;10020;F315
@@ -4153,8 +4153,8 @@
 002079;Moncrivello;VC;Vercelli;PIE;Piemonte;0161;13040;F342
 005070;Moncucco Torinese;AT;Asti;PIE;Piemonte;011;14024;F343
 099006;Mondaino;RN;Rimini;EMR;Emilia Romagna;0541;47836;F346
-041028;Mondavio;PU;Pesaro e;MAR;Marche;0721;61040;F347
-041029;Mondolfo;PU;Pesaro e;MAR;Marche;0721;61037;F348
+041028;Mondavio;PU;Pesaro e Urbino;MAR;Marche;0721;61040;F347
+041029;Mondolfo;PU;Pesaro e Urbino;MAR;Marche;0721;61037;F348
 004130;Mondovì;CN;Cuneo;PIE;Piemonte;0174;12084;F351
 061052;Mondragone;CE;Caserta;CAM;Campania;0823;81034;F352
 010037;Moneglia;GE;Genova;LIG;Liguria;0185;16030;F354
@@ -4227,17 +4227,17 @@
 053016;Monte Argentario;GR;Grosseto;TOS;Toscana;0564;58019;F437
 054029;Monte Castello di Vibio;PG;Perugia;UMB;Umbria;075;06057;F456
 043027;Monte Cavallo;MC;Macerata;MAR;Marche;0737;62036;F460
-041031;Monte Cerignone;PU;Pesaro e;MAR;Marche;0541;61010;F467
+041031;Monte Cerignone;PU;Pesaro e Urbino;MAR;Marche;0541;61010;F467
 099007;Monte Colombo;RN;Rimini;EMR;Emilia Romagna;0541;47854;F476
 058060;Monte Compatri;RM;Roma;LAZ;Lazio;06;00040;F477
 019058;Monte Cremasco;CR;Cremona;LOM;Lombardia;0373;26010;F434
 024063;Monte di Malo;VI;Vicenza;VEN;Veneto;0445;36030;F486
 063047;Monte di Procida;NA;Napoli;CAM;Campania;081;80070;F488
 109016;Monte Giberto;FM;Fermo;MAR;Marche;0734;63846;F517
-041035;Monte Grimano Terme;PU;Pesaro e;MAR;Marche;0541;61010;F524
+041035;Monte Grimano Terme;PU;Pesaro e Urbino;MAR;Marche;0541;61010;F524
 017111;Monte Isola;BS;Brescia;LOM;Lombardia;030;25050;F532
 097052;Monte Marenzo;LC;Lecco;LOM;Lombardia;0341;23804;F561
-041038;Monte Porzio;PU;Pesaro e;MAR;Marche;0721;61040;F589
+041038;Monte Porzio;PU;Pesaro e Urbino;MAR;Marche;0721;61040;F589
 058064;Monte Porzio Catone;RM;Roma;LAZ;Lazio;06;00040;F590
 109021;Monte Rinaldo;FM;Fermo;MAR;Marche;0734;63852;F599
 042029;Monte Roberto;AN;Ancona;MAR;Marche;0731;60030;F600
@@ -4265,7 +4265,7 @@
 026046;Montebelluna;TV;Treviso;VEN;Veneto;0423;31044;F443
 010038;Montebruno;GE;Genova;LIG;Liguria;010;16025;F445
 057040;Montebuono;RI;Rieti;LAZ;Lazio;0765;02040;F446
-041030;Montecalvo in Foglia;PU;Pesaro e;MAR;Marche;0722;61020;F450
+041030;Montecalvo in Foglia;PU;Pesaro e Urbino;MAR;Marche;0722;61020;F450
 064052;Montecalvo Irpino;AV;Avellino;CAM;Campania;0825;83037;F448
 018096;Montecalvo Versiggia;PV;Pavia;LOM;Lombardia;0385;27047;F449
 046021;Montecarlo;LU;Lucca;TOS;Toscana;0583;55015;F452
@@ -4283,9 +4283,9 @@
 006106;Montechiaro d'Acqui;AL;Alessandria;PIE;Piemonte;0144;15010;F469
 005075;Montechiaro d'Asti;AT;Asti;PIE;Piemonte;0141;14025;F468
 034023;Montechiarugolo;PR;Parma;EMR;Emilia Romagna;0521;43022;F473
-041032;Monteciccardo;PU;Pesaro e;MAR;Marche;0721;61024;F474
+041032;Monteciccardo;PU;Pesaro e Urbino;MAR;Marche;0721;61024;F474
 070042;Montecilfone;CB;Campobasso;MOL;Molise;0875;86032;F475
-041033;Montecopiolo;PU;Pesaro e;MAR;Marche;0722;61014;F478
+041033;Montecopiolo;PU;Pesaro e Urbino;MAR;Marche;0722;61014;F478
 065071;Montecorice;SA;Salerno;CAM;Campania;0974;84060;F479
 065072;Montecorvino Pugliano;SA;Salerno;CAM;Campania;089;84090;F480
 065073;Montecorvino Rovella;SA;Salerno;CAM;Campania;089;84096;F481
@@ -4300,7 +4300,7 @@
 062042;Montefalcone di Val Fortore;BN;Benevento;CAM;Campania;0824;82025;F494
 070043;Montefalcone nel Sannio;CB;Campobasso;MOL;Molise;0874;86033;F495
 043029;Montefano;MC;Macerata;MAR;Marche;0733;62010;F496
-041034;Montefelcino;PU;Pesaro e;MAR;Marche;0721;61030;F497
+041034;Montefelcino;PU;Pesaro e Urbino;MAR;Marche;0721;61030;F497
 069052;Monteferrante;CH;Chieti;ABR;Abruzzo;0872;66040;F498
 056036;Montefiascone;VT;Viterbo;LAZ;Lazio;0761;01027;F499
 067027;Montefino;TE;Teramo;ABR;Abruzzo;0861;64030;F500
@@ -4329,7 +4329,7 @@
 008037;Montegrosso Pian Latte;IM;Imperia;LIG;Liguria;0183;18025;F528
 028057;Montegrotto Terme;PD;Padova;VEN;Veneto;049;35036;F529
 073016;Monteiasi;TA;Taranto;PUG;Puglia;099;74020;F531
-041036;Montelabbate;PU;Pesaro e;MAR;Marche;0721;61025;F533
+041036;Montelabbate;PU;Pesaro e Urbino;MAR;Marche;0721;61025;F533
 058062;Montelanico;RM;Roma;LAZ;Lazio;06;00030;F534
 069053;Montelapiano;CH;Chieti;ABR;Abruzzo;0872;66040;F535
 109019;Monteleone di Fermo;FM;Fermo;MAR;Marche;0734;63841;F536
@@ -4347,7 +4347,7 @@
 004137;Montelupo Albese;CN;Cuneo;PIE;Piemonte;0173;12050;F550
 048028;Montelupo Fiorentino;FI;Firenze;TOS;Toscana;0571;50056;F551
 043030;Montelupone;MC;Macerata;MAR;Marche;0733;62010;F552
-041037;Montemaggiore al Metauro;PU;Pesaro e;MAR;Marche;0721;61030;F555
+041037;Montemaggiore al Metauro;PU;Pesaro e Urbino;MAR;Marche;0721;61030;F555
 082051;Montemaggiore Belsito;PA;Palermo;SIC;Sicilia;091;90020;F553
 005077;Montemagno;AT;Asti;PIE;Piemonte;0141;14030;F556
 004138;Montemale di Cuneo;CN;Cuneo;PIE;Piemonte;0171;12025;F558
@@ -4443,7 +4443,7 @@
 095085;Montresta;OR;Oristano;SAR;Sardegna;0785;08010;F698
 018100;Montù Beccaria;PV;Pavia;LOM;Lombardia;0385;27040;F701
 012104;Monvalle;VA;Varese;LOM;Lombardia;0332;21020;F703
-108033;Monza;MB;Monza e;LOM;Lombardia;039;20900;F704
+108033;Monza;MB;Monza e Brianza;LOM;Lombardia;039;20900;F704
 020036;Monzambano;MN;Mantova;LOM;Lombardia;0376;46040;F705
 037044;Monzuno;BO;Bologna;EMR;Emilia Romagna;051;40036;F706
 078083;Morano Calabro;CS;Cosenza;CAL;Calabria;0981;87016;F708
@@ -4521,7 +4521,7 @@
 016143;Mozzo;BG;Bergamo;LOM;Lombardia;035;24030;F791
 043034;Muccia;MC;Macerata;MAR;Marche;0737;62034;F793
 032003;Muggia;TS;Trieste;FVG;Friuli Venezia Giulia;040;34015;F795
-108034;Muggiò;MB;Monza e;LOM;Lombardia;039;20835;F797
+108034;Muggiò;MB;Monza e Brianza;LOM;Lombardia;039;20835;F797
 064065;Mugnano del Cardinale;AV;Avellino;CAM;Campania;081;83027;F798
 063048;Mugnano di Napoli;NA;Napoli;CAM;Campania;081;80018;F799
 098041;Mulazzano;LO;Lodi;LOM;Lombardia;02;26837;F801
@@ -4633,7 +4633,7 @@
 067032;Notaresco;TE;Teramo;ABR;Abruzzo;085;64024;F942
 089013;Noto;SR;Siracusa;SIC;Sicilia;0931;96017;F943
 021058;Nova Levante;BZ;Bolzano;TAA;Trentino Alto Adige;0471;39056;F949
-108035;Nova Milanese;MB;Monza e;LOM;Lombardia;0362;20834;F944
+108035;Nova Milanese;MB;Monza e Brianza;LOM;Lombardia;0362;20834;F944
 021059;Nova Ponente;BZ;Bolzano;TAA;Trentino Alto Adige;0471;39050;F950
 077018;Nova Siri;MT;Matera;BAS;Basilicata;0835;75020;A942
 099023;Novafeltria;RN;Rimini;EMR;Emilia Romagna;0541;47863;F137
@@ -4746,7 +4746,7 @@
 070049;Oratino;CB;Campobasso;MOL;Molise;0874;86010;G086
 001171;Orbassano;TO;Torino;PIE;Piemonte;011;10043;G087
 053018;Orbetello;GR;Grosseto;TOS;Toscana;0564;58015;G088
-041040;Orciano di Pesaro;PU;Pesaro e;MAR;Marche;0721;61038;G089
+041040;Orciano di Pesaro;PU;Pesaro e Urbino;MAR;Marche;0721;61038;G089
 050023;Orciano Pisano;PI;Pisa;TOS;Toscana;050;56040;G090
 009044;Orco Feglino;SV;Savona;LIG;Liguria;019;17024;D522
 071063;Ordona;FG;Foggia;PUG;Puglia;0885;71040;M266
@@ -4765,7 +4765,7 @@
 095038;Oristano;OR;Oristano;SAR;Sardegna;0783;09170;G113
 004155;Ormea;CN;Cuneo;PIE;Piemonte;0174;12078;G114
 026052;Ormelle;TV;Treviso;VEN;Veneto;0422;31024;G115
-108036;Ornago;MB;Monza e;LOM;Lombardia;039;20876;G116
+108036;Ornago;MB;Monza e Brianza;LOM;Lombardia;039;20876;G116
 103051;Ornavasso;VB;Verbano-Cusio-Ossola;PIE;Piemonte;0323;28877;G117
 016151;Ornica;BG;Bergamo;LOM;Lombardia;0345;24010;G118
 091063;Orosei;NU;Nuoro;SAR;Sardegna;0784;08028;G119
@@ -5009,7 +5009,7 @@
 014047;Pedesina;SO;Sondrio;LOM;Lombardia;0342;23010;G410
 078096;Pedivigliano;CS;Cosenza;CAL;Calabria;0984;87050;G411
 016160;Pedrengo;BG;Bergamo;LOM;Lombardia;035;24066;G412
-041041;Peglio;PU;Pesaro e;MAR;Marche;0722;61049;G416
+041041;Peglio;PU;Pesaro e Urbino;MAR;Marche;0722;61049;G416
 020039;Pegognaga;MN;Mantova;LOM;Lombardia;0376;46020;G417
 016161;Peia;BG;Bergamo;LOM;Lombardia;035;24020;G418
 022136;Peio;TN;Trento;TAA;Trentino Alto Adige;0463;38024;G419
@@ -5041,7 +5041,7 @@
 090056;Perfugas;SS;Sassari;SAR;Sardegna;079;07034;G450
 051028;Pergine Valdarno;AR;Arezzo;TOS;Toscana;0575;52020;G451
 022139;Pergine Valsugana;TN;Trento;TAA;Trentino Alto Adige;0461;38057;G452
-041043;Pergola;PU;Pesaro e;MAR;Marche;0721;61045;G453
+041043;Pergola;PU;Pesaro e Urbino;MAR;Marche;0721;61045;G453
 008040;Perinaldo;IM;Imperia;LIG;Liguria;0184;18032;G454
 065092;Perito;SA;Salerno;CAM;Campania;0974;84060;G455
 097067;Perledo;LC;Lecco;LOM;Lombardia;0341;23828;G456
@@ -5088,7 +5088,7 @@
 082056;Petralia Sottana;PA;Palermo;SIC;Sicilia;0921;90027;G511
 057050;Petrella Salto;RI;Rieti;LAZ;Lazio;0746;02025;G513
 070052;Petrella Tifernina;CB;Campobasso;MOL;Molise;0874;86024;G512
-041045;Petriano;PU;Pesaro e;MAR;Marche;0722;61020;G514
+041045;Petriano;PU;Pesaro e Urbino;MAR;Marche;0722;61020;G514
 043036;Petriolo;MC;Macerata;MAR;Marche;0733;62014;G515
 109031;Petritoli;FM;Fermo;MAR;Marche;0734;63848;G516
 079094;Petrizzi;CZ;Catanzaro;CAL;Calabria;0967;88060;G517
@@ -5107,7 +5107,7 @@
 004164;Pezzolo Valle Uzzone;CN;Cuneo;PIE;Piemonte;0173;12070;G532
 028062;Piacenza d'Adige;PD;Padova;VEN;Veneto;0425;35040;G534
 019071;Piadena;CR;Cremona;LOM;Lombardia;0375;26034;G536
-041046;Piagge;PU;Pesaro e;MAR;Marche;0721;61030;G537
+041046;Piagge;PU;Pesaro e Urbino;MAR;Marche;0721;61030;G537
 065095;Piaggine;SA;Salerno;CAM;Campania;0974;84065;G538
 017142;Pian Camuno;BS;Brescia;LOM;Lombardia;0364;25050;G546
 051029;Pian di Sco;AR;Arezzo;TOS;Toscana;055;52026;G552
@@ -5116,7 +5116,7 @@
 061056;Piana di Monte Verna;CE;Caserta;CAM;Campania;0823;81013;G541
 052020;Piancastagnaio;SI;Siena;TOS;Toscana;0577;53025;G547
 017206;Piancogno;BS;Brescia;LOM;Lombardia;0364;25052;G549
-041047;Piandimeleto;PU;Pesaro e;MAR;Marche;0722;61026;G551
+041047;Piandimeleto;PU;Pesaro e Urbino;MAR;Marche;0722;61026;G551
 078097;Piane Crati;CS;Cosenza;CAL;Calabria;0984;87050;G553
 068030;Pianella;PE;Pescara;ABR;Abruzzo;085;65019;G555
 013183;Pianello del Lario;CO;Como;LOM;Lombardia;0344;22010;G556
@@ -5176,7 +5176,7 @@
 086015;Pietraperzia;EN;Enna;SIC;Sicilia;0934;94016;G624
 004167;Pietraporzio;CN;Cuneo;PIE;Piemonte;0171;12010;G625
 062051;Pietraroja;BN;Benevento;CAM;Campania;0824;82030;G626
-041048;Pietrarubbia;PU;Pesaro e;MAR;Marche;0722;61023;G627
+041048;Pietrarubbia;PU;Pesaro e Urbino;MAR;Marche;0722;61023;G627
 046024;Pietrasanta;LU;Lucca;TOS;Toscana;0584;55045;G628
 064073;Pietrastornina;AV;Avellino;CAM;Campania;0825;83015;G629
 061059;Pietravairano;CE;Caserta;CAM;Campania;0823;81040;G630
@@ -5224,7 +5224,7 @@
 001192;Pino Torinese;TO;Torino;PIE;Piemonte;011;10025;G678
 093030;Pinzano al Tagliamento;PN;Pordenone;FVG;Friuli Venezia Giulia;0432;33094;G680
 022143;Pinzolo;TN;Trento;TAA;Trentino Alto Adige;0465;38086;G681
-041049;Piobbico;PU;Pesaro e;MAR;Marche;0722;61046;G682
+041049;Piobbico;PU;Pesaro e Urbino;MAR;Marche;0722;61046;G682
 004168;Piobesi d'Alba;CN;Cuneo;PIE;Piemonte;0173;12040;G683
 001193;Piobesi Torinese;TO;Torino;PIE;Piemonte;011;10040;G684
 002097;Piode;VC;Vercelli;PIE;Piemonte;0163;13020;G685
@@ -5648,7 +5648,7 @@
 083070;Reitano;ME;Messina;SIC;Sicilia;0921;98070;H228
 030091;Remanzacco;UD;Udine;FVG;Friuli Venezia Giulia;0432;33047;H229
 017160;Remedello;BS;Brescia;LOM;Lombardia;030;25010;H230
-108037;Renate;MB;Monza e;LOM;Lombardia;0362;20838;H233
+108037;Renate;MB;Monza e Brianza;LOM;Lombardia;0362;20838;H233
 078102;Rende;CS;Cosenza;CAL;Calabria;0984;87036;H235
 021072;Renon;BZ;Bolzano;TAA;Trentino Alto Adige;0471;39054;H236
 026066;Resana;TV;Treviso;VEN;Veneto;0423;31023;H238
@@ -5886,14 +5886,14 @@
 017165;Roncadelle;BS;Brescia;LOM;Lombardia;030;25030;H525
 018129;Roncaro;PV;Pavia;LOM;Lombardia;0382;27010;H527
 022156;Roncegno Terme;TN;Trento;TAA;Trentino Alto Adige;0461;38050;H528
-108055;Roncello;MB;Monza e;LOM;Lombardia;039;20877;H529
+108055;Roncello;MB;Monza e Brianza;LOM;Lombardia;039;20877;H529
 031016;Ronchi dei Legionari;GO;Gorizia;FVG;Friuli Venezia Giulia;0481;34077;H531
 022157;Ronchi Valsugana;TN;Trento;TAA;Trentino Alto Adige;0461;38050;H532
 030097;Ronchis;UD;Udine;FVG;Friuli Venezia Giulia;0431;33050;H533
 056045;Ronciglione;VT;Viterbo;LAZ;Lazio;0761;01037;H534
 023064;Ronco all'Adige;VR;Verona;VEN;Veneto;045;37055;H540
 096053;Ronco Biellese;BI;Biella;PIE;Piemonte;015;13845;H538
-108038;Ronco Briantino;MB;Monza e;LOM;Lombardia;039;20885;H537
+108038;Ronco Briantino;MB;Monza e Brianza;LOM;Lombardia;039;20885;H537
 001224;Ronco Canavese;TO;Torino;PIE;Piemonte;0124;10080;H539
 010049;Ronco Scrivia;GE;Genova;LIG;Liguria;010;16019;H536
 016184;Roncobello;BG;Bergamo;LOM;Lombardia;0345;24010;H535
@@ -6036,7 +6036,7 @@
 017170;Salò;BS;Brescia;LOM;Lombardia;0365;25087;H717
 021076;Salorno;BZ;Bolzano;TAA;Trentino Alto Adige;0471;39040;H719
 034032;Salsomaggiore Terme;PR;Parma;EMR;Emilia Romagna;0524;43039;H720
-041050;Saltara;PU;Pesaro e;MAR;Marche;0721;61030;H721
+041050;Saltara;PU;Pesaro e Urbino;MAR;Marche;0721;61030;H721
 012117;Saltrio;VA;Varese;LOM;Lombardia;0332;21050;H723
 099015;Saludecio;RN;Rimini;EMR;Emilia Romagna;0541;47835;H724
 002128;Saluggia;VC;Vercelli;PIE;Piemonte;0161;13040;H725
@@ -6109,7 +6109,7 @@
 078113;San Cosmo Albanese;CS;Cosenza;CAL;Calabria;0983;87060;H806
 076075;San Costantino Albanese;PZ;Potenza;BAS;Basilicata;0973;85030;H808
 102033;San Costantino Calabro;VV;Vibo Valentia;CAL;Calabria;0963;89851;H807
-041051;San Costanzo;PU;Pesaro e;MAR;Marche;0721;61039;H809
+041051;San Costanzo;PU;Pesaro e Urbino;MAR;Marche;0721;61039;H809
 006152;San Cristoforo;AL;Alessandria;PIE;Piemonte;0143;15060;H810
 018134;San Damiano al Colle;PV;Pavia;LOM;Lombardia;0385;27040;H814
 005097;San Damiano d'Asti;AT;Asti;PIE;Piemonte;0141;14015;H811
@@ -6170,7 +6170,7 @@
 018136;San Giorgio di Lomellina;PV;Pavia;LOM;Lombardia;0384;27020;H885
 020057;San Giorgio di Mantova;MN;Mantova;LOM;Lombardia;0376;46030;H883
 030100;San Giorgio di Nogaro;UD;Udine;FVG;Friuli Venezia Giulia;0431;33058;H895
-041052;San Giorgio di Pesaro;PU;Pesaro e;MAR;Marche;0721;61030;H886
+041052;San Giorgio di Pesaro;PU;Pesaro e Urbino;MAR;Marche;0721;61030;H886
 037052;San Giorgio di Piano;BO;Bologna;EMR;Emilia Romagna;051;40016;H896
 028076;San Giorgio in Bosco;PD;Padova;VEN;Veneto;049;35010;H897
 073024;San Giorgio Ionico;TA;Taranto;PUG;Puglia;099;74027;H882
@@ -6230,7 +6230,7 @@
 078121;San Lorenzo del Vallo;CS;Cosenza;CAL;Calabria;0981;87040;H962
 021081;San Lorenzo di Sebato;BZ;Bolzano;TAA;Trentino Alto Adige;0474;39030;H956
 022166;San Lorenzo in Banale;TN;Trento;TAA;Trentino Alto Adige;0465;38078;H966
-041054;San Lorenzo in Campo;PU;Pesaro e;MAR;Marche;0721;61047;H958
+041054;San Lorenzo in Campo;PU;Pesaro e Urbino;MAR;Marche;0721;61047;H958
 031020;San Lorenzo Isontino;GO;Gorizia;FVG;Friuli Venezia Giulia;0481;34070;H964
 062062;San Lorenzo Maggiore;BN;Benevento;CAM;Campania;0824;82034;H967
 056047;San Lorenzo Nuovo;VT;Viterbo;LAZ;Lazio;0763;01020;H969
@@ -6518,9 +6518,9 @@
 094046;Sant'Angelo del Pesco;IS;Isernia;MOL;Molise;0865;86080;I282
 083088;Sant'Angelo di Brolo;ME;Messina;SIC;Sicilia;0941;98060;I283
 028082;Sant'Angelo di Piove di Sacco;PD;Padova;VEN;Veneto;049;35020;I275
-041056;Sant'Angelo in Lizzola;PU;Pesaro e;MAR;Marche;0721;61020;I285
+041056;Sant'Angelo in Lizzola;PU;Pesaro e Urbino;MAR;Marche;0721;61020;I285
 043048;Sant'Angelo in Pontano;MC;Macerata;MAR;Marche;0733;62020;I286
-041057;Sant'Angelo in Vado;PU;Pesaro e;MAR;Marche;0722;61048;I287
+041057;Sant'Angelo in Vado;PU;Pesaro e Urbino;MAR;Marche;0722;61048;I287
 076079;Sant'Angelo Le Fratte;PZ;Potenza;BAS;Basilicata;0975;85050;I288
 070073;Sant'Angelo Limosano;CB;Campobasso;MOL;Molise;0874;86020;I289
 098050;Sant'Angelo Lodigiano;LO;Lodi;LOM;Lombardia;0371;26866;I274
@@ -6558,7 +6558,7 @@
 059026;Santi Cosma e Damiano;LT;Latina;LAZ;Lazio;0771;04020;I339
 080082;Sant'Ilario dello Ionio;RC;Reggio Calabria;CAL;Calabria;0964;89040;I341
 035039;Sant'Ilario d'Enza;RE;Reggio Emilia;EMR;Emilia Romagna;0522;42049;I342
-041058;Sant'Ippolito;PU;Pesaro e;MAR;Marche;0721;61040;I344
+041058;Sant'Ippolito;PU;Pesaro e Urbino;MAR;Marche;0721;61040;I344
 008056;Santo Stefano al Mare;IM;Imperia;LIG;Liguria;0184;18010;I365
 004213;Santo Stefano Belbo;CN;Cuneo;PIE;Piemonte;0141;12058;I367
 010056;Santo Stefano d'Aveto;GE;Genova;LIG;Liguria;0185;16049;I368
@@ -6622,8 +6622,8 @@
 062072;Sassinoro;BN;Benevento;CAM;Campania;0824;82026;I455
 076082;Sasso di Castalda;PZ;Potenza;BAS;Basilicata;0975;85050;I457
 037057;Sasso Marconi;BO;Bologna;EMR;Emilia Romagna;051;40037;G972
-041059;Sassocorvaro;PU;Pesaro e;MAR;Marche;0722;61028;I459
-041060;Sassofeltrio;PU;Pesaro e;MAR;Marche;0541;61013;I460
+041059;Sassocorvaro;PU;Pesaro e Urbino;MAR;Marche;0722;61028;I459
+041060;Sassofeltrio;PU;Pesaro e Urbino;MAR;Marche;0541;61013;I460
 042044;Sassoferrato;AN;Ancona;MAR;Marche;0732;60041;I461
 036040;Sassuolo;MO;Modena;EMR;Emilia Romagna;0536;41049;I462
 079123;Satriano;CZ;Catanzaro;CAL;Calabria;0967;88060;I463
@@ -6756,7 +6756,7 @@
 093042;Sequals;PN;Pordenone;FVG;Friuli Venezia Giulia;0427;33090;I621
 046028;Seravezza;LU;Lucca;TOS;Toscana;0584;55047;I622
 092071;Serdiana;CA;Cagliari;SAR;Sardegna;070;09040;I624
-108039;Seregno;MB;Monza e;LOM;Lombardia;0362;20831;I625
+108039;Seregno;MB;Monza e Brianza;LOM;Lombardia;0362;20831;I625
 025055;Seren del Grappa;BL;Belluno;VEN;Veneto;0439;32030;I626
 019094;Sergnano;CR;Cremona;LOM;Lombardia;0373;26010;I627
 016198;Seriate;BG;Bergamo;LOM;Lombardia;035;24068;I628
@@ -6774,7 +6774,7 @@
 010058;Serra Riccò;GE;Genova;LIG;Liguria;010;16010;I640
 102037;Serra San Bruno;VV;Vibo Valentia;CAL;Calabria;0963;89822;I639
 042047;Serra San Quirico;AN;Ancona;MAR;Marche;0731;60048;I653
-041061;Serra Sant'Abbondio;PU;Pesaro e;MAR;Marche;0721;61040;I654
+041061;Serra Sant'Abbondio;PU;Pesaro e Urbino;MAR;Marche;0721;61040;I654
 071053;Serracapriola;FG;Foggia;PUG;Puglia;0882;71010;I641
 085018;Serradifalco;CL;Caltanissetta;SIC;Sicilia;0934;93010;I644
 004218;Serralunga d'Alba;CN;Cuneo;PIE;Piemonte;0173;12050;I646
@@ -6797,7 +6797,7 @@
 106019;Serrenti;VS;Medio Campidano;SAR;Sardegna;070;09027;I667
 092120;Serri;CA;Cagliari;SAR;Sardegna;0782;08030;I668
 060071;Serrone;FR;Frosinone;LAZ;Lazio;0775;03010;I669
-041062;Serrungarina;PU;Pesaro e;MAR;Marche;0721;61030;I670
+041062;Serrungarina;PU;Pesaro e Urbino;MAR;Marche;0721;61030;I670
 079130;Sersale;CZ;Catanzaro;CAL;Calabria;0961;88054;I671
 109038;Servigliano;FM;Fermo;MAR;Marche;0734;63839;C070
 061088;Sessa Aurunca;CE;Caserta;CAM;Campania;0823;81037;I676
@@ -6829,7 +6829,7 @@
 106020;Setzu;VS;Medio Campidano;SAR;Sardegna;070;09029;I705
 105015;Seui;OG;Ogliastra;SAR;Sardegna;0782;08037;I706
 092121;Seulo;CA;Cagliari;SAR;Sardegna;0782;08030;I707
-108040;Seveso;MB;Monza e;LOM;Lombardia;0362;20822;I709
+108040;Seveso;MB;Monza e Brianza;LOM;Lombardia;0362;20822;I709
 006161;Sezzadio;AL;Alessandria;PIE;Piemonte;0131;15079;I711
 059028;Sezze;LT;Latina;LAZ;Lazio;0773;04018;I712
 022173;Sfruz;TN;Trento;TAA;Trentino Alto Adige;0463;38010;I714
@@ -6966,7 +6966,7 @@
 079139;Soveria Simeri;CZ;Catanzaro;CAL;Calabria;0961;88050;I875
 025057;Soverzene;BL;Belluno;VEN;Veneto;0437;32010;I876
 052034;Sovicille;SI;Siena;TOS;Toscana;0577;53018;I877
-108041;Sovico;MB;Monza e;LOM;Lombardia;039;20845;I878
+108041;Sovico;MB;Monza e Brianza;LOM;Lombardia;039;20845;I878
 024103;Sovizzo;VI;Vicenza;VEN;Veneto;0444;36050;I879
 025058;Sovramonte;BL;Belluno;VEN;Veneto;0439;32030;I673
 003141;Sozzago;NO;Novara;PIE;Piemonte;0321;28060;I880
@@ -7066,7 +7066,7 @@
 092083;Suelli;CA;Cagliari;SAR;Sardegna;070;09040;I995
 097078;Suello;LC;Lecco;LOM;Lombardia;031;23867;I996
 016209;Suisio;BG;Bergamo;LOM;Lombardia;035;24040;I997
-108042;Sulbiate;MB;Monza e;LOM;Lombardia;039;20884;I998
+108042;Sulbiate;MB;Monza e Brianza;LOM;Lombardia;039;20884;I998
 066098;Sulmona;AQ;L'Aquila;ABR;Abruzzo;0864;67039;I804
 017182;Sulzano;BS;Brescia;LOM;Lombardia;030;25058;L002
 012124;Sumirago;VA;Varese;LOM;Lombardia;0331;21040;L003
@@ -7129,8 +7129,8 @@
 017183;Tavernole sul Mella;BS;Brescia;LOM;Lombardia;030;25060;C698
 075085;Taviano;LE;Lecce;PUG;Puglia;0833;73057;L074
 096066;Tavigliano;BI;Biella;PIE;Piemonte;015;13811;L075
-041064;Tavoleto;PU;Pesaro e;MAR;Marche;0722;61020;L078
-041065;Tavullia;PU;Pesaro e;MAR;Marche;0721;61010;L081
+041064;Tavoleto;PU;Pesaro e Urbino;MAR;Marche;0722;61020;L078
+041065;Tavullia;PU;Pesaro e Urbino;MAR;Marche;0721;61010;L081
 076087;Teana;PZ;Potenza;BAS;Basilicata;0973;85032;L082
 061091;Teano;CE;Caserta;CAM;Campania;0823;81057;L083
 065146;Teggiano;SA;Salerno;CAM;Campania;0975;84039;D292
@@ -7420,7 +7420,7 @@
 083100;Tripi;ME;Messina;SIC;Sicilia;0941;98060;L431
 006176;Trisobbio;AL;Alessandria;PIE;Piemonte;0143;15070;L432
 024110;Trissino;VI;Vicenza;VEN;Veneto;0445;36070;L433
-108043;Triuggio;MB;Monza e;LOM;Lombardia;0362;20844;L434
+108043;Triuggio;MB;Monza e Brianza;LOM;Lombardia;0362;20844;L434
 070081;Trivento;CB;Campobasso;MOL;Molise;0874;86029;L435
 096070;Trivero;BI;Biella;PIE;Piemonte;015;13835;L436
 060081;Trivigliano;FR;Frosinone;LAZ;Lazio;0775;03010;L437
@@ -7474,9 +7474,9 @@
 017192;Urago d'Oglio;BS;Brescia;LOM;Lombardia;030;25030;L494
 095069;Uras;OR;Oristano;SAR;Sardegna;0783;09099;L496
 028095;Urbana;PD;Padova;VEN;Veneto;0429;35040;L497
-041066;Urbania;PU;Pesaro e;MAR;Marche;0722;61049;L498
+041066;Urbania;PU;Pesaro e Urbino;MAR;Marche;0722;61049;L498
 009063;Urbe;SV;Savona;LIG;Liguria;019;17048;L499
-041067;Urbino;PU;Pesaro e;MAR;Marche;0722;61029;L500
+041067;Urbino;PU;Pesaro e Urbino;MAR;Marche;0722;61029;L500
 043055;Urbisaglia;MC;Macerata;MAR;Marche;0733;62010;L501
 016222;Urgnano;BG;Bergamo;LOM;Lombardia;035;24059;L502
 090076;Uri;SS;Sassari;SAR;Sardegna;079;07040;L503
@@ -7485,7 +7485,7 @@
 010064;Uscio;GE;Genova;LIG;Liguria;0185;16030;L507
 095070;Usellus;OR;Oristano;SAR;Sardegna;0783;09090;L508
 090077;Usini;SS;Sassari;SAR;Sardegna;079;07049;L509
-108044;Usmate Velate;MB;Monza e;LOM;Lombardia;039;20865;L511
+108044;Usmate Velate;MB;Monza e Brianza;LOM;Lombardia;039;20865;L511
 092088;Ussana;CA;Cagliari;SAR;Sardegna;070;09020;L512
 106024;Ussaramanna;VS;Medio Campidano;SAR;Sardegna;0783;09020;L513
 105022;Ussassai;OG;Ogliastra;SAR;Sardegna;0782;08040;L514
@@ -7621,7 +7621,7 @@
 080095;Varapodio;RC;Reggio Calabria;CAL;Calabria;0966;89010;L673
 009065;Varazze;SV;Savona;LIG;Liguria;019;17019;L675
 057073;Varco Sabino;RI;Rieti;LAZ;Lazio;0765;02020;L676
-108045;Varedo;MB;Monza e;LOM;Lombardia;0362;20814;L677
+108045;Varedo;MB;Monza e Brianza;LOM;Lombardia;0362;20814;L677
 022211;Varena;TN;Trento;TAA;Trentino Alto Adige;0462;38030;L678
 097084;Varenna;LC;Lecco;LOM;Lombardia;0341;23829;L680
 012133;Varese;VA;Varese;LOM;Lombardia;0332;21100;L682
@@ -7642,12 +7642,12 @@
 102046;Vazzano;VV;Vibo Valentia;CAL;Calabria;0963;89834;L699
 026088;Vazzola;TV;Treviso;VEN;Veneto;0438;31028;L700
 050037;Vecchiano;PI;Pisa;TOS;Toscana;050;56019;L702
-108046;Vedano al Lambro;MB;Monza e;LOM;Lombardia;039;20854;L704
+108046;Vedano al Lambro;MB;Monza e Brianza;LOM;Lombardia;039;20854;L704
 012134;Vedano Olona;VA;Varese;LOM;Lombardia;0332;21040;L703
 012135;Veddasca;VA;Varese;LOM;Lombardia;0332;21010;L705
 026089;Vedelago;TV;Treviso;VEN;Veneto;0423;31050;L706
 016230;Vedeseta;BG;Bergamo;LOM;Lombardia;0345;24010;L707
-108047;Veduggio con Colzano;MB;Monza e;LOM;Lombardia;0362;20837;L709
+108047;Veduggio con Colzano;MB;Monza e Brianza;LOM;Lombardia;0362;20837;L709
 028096;Veggiano;PD;Padova;VEN;Veneto;049;35030;L710
 075092;Veglie;LE;Lecce;PUG;Puglia;0832;73010;L711
 096075;Veglio;BI;Biella;PIE;Piemonte;015;13824;L712
@@ -7677,7 +7677,7 @@
 059033;Ventotene;LT;Latina;LAZ;Lazio;0771;04020;L742
 030131;Venzone;UD;Udine;FVG;Friuli Venezia Giulia;0432;33010;L743
 021112;Verano;BZ;Bolzano;TAA;Trentino Alto Adige;0473;39010;L745
-108048;Verano Brianza;MB;Monza e;LOM;Lombardia;0362;20843;L744
+108048;Verano Brianza;MB;Monza e Brianza;LOM;Lombardia;0362;20843;L744
 078153;Verbicaro;CS;Cosenza;CAL;Calabria;0985;87020;L747
 013239;Vercana;CO;Como;LOM;Lombardia;0344;22013;L748
 014075;Verceia;SO;Sondrio;LOM;Lombardia;0343;23020;L749
@@ -7903,7 +7903,7 @@
 006186;Villaromagnano;AL;Alessandria;PIE;Piemonte;0131;15050;M009
 086020;Villarosa;EN;Enna;SIC;Sicilia;0935;94010;M011
 092098;Villasalto;CA;Cagliari;SAR;Sardegna;070;09040;M016
-108049;Villasanta;MB;Monza e;LOM;Lombardia;039;20852;M017
+108049;Villasanta;MB;Monza e Brianza;LOM;Lombardia;039;20852;M017
 092100;Villasimius;CA;Cagliari;SAR;Sardegna;070;09049;B738
 092101;Villasor;CA;Cagliari;SAR;Sardegna;070;09034;M025
 092102;Villaspeciosa;CA;Cagliari;SAR;Sardegna;070;09010;M026
@@ -7920,7 +7920,7 @@
 016242;Villongo;BG;Bergamo;LOM;Lombardia;035;24060;M045
 026091;Villorba;TV;Treviso;VEN;Veneto;0422;31020;M048
 016243;Vilminore di Scalve;BG;Bergamo;LOM;Lombardia;0346;24020;M050
-108050;Vimercate;MB;Monza e;LOM;Lombardia;039;20871;M052
+108050;Vimercate;MB;Monza e Brianza;LOM;Lombardia;039;20871;M052
 015242;Vimodrone;MI;Milano;LOM;Lombardia;02;20090;M053
 004248;Vinadio;CN;Cuneo;PIE;Piemonte;0171;12010;M055
 070084;Vinchiaturo;CB;Campobasso;MOL;Molise;0874;86019;M057
@@ -8680,8 +8680,8 @@
 054039;Perugia;PG;Perugia;UMB;Umbria;075;6133;G478
 054039;Perugia;PG;Perugia;UMB;Umbria;075;6134;G478
 054039;Perugia;PG;Perugia;UMB;Umbria;075;6135;G478
-041044;Pesaro;PU;Pesaro e;MAR;Marche;0721;61121;G479
-041044;Pesaro;PU;Pesaro e;MAR;Marche;0721;61122;G479
+041044;Pesaro;PU;Pesaro e Urbino;MAR;Marche;0721;61121;G479
+041044;Pesaro;PU;Pesaro e Urbino;MAR;Marche;0721;61122;G479
 068028;Pescara;PE;Pescara;ABR;Abruzzo;085;65121;G482
 068028;Pescara;PE;Pescara;ABR;Abruzzo;085;65122;G482
 068028;Pescara;PE;Pescara;ABR;Abruzzo;085;65123;G482
